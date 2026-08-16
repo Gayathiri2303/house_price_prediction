@@ -105,11 +105,17 @@ The model predicted:
 
 ## 📊 Visualizations
 
-The notebook includes:
+### Model Comparison
 
-- Model R² score comparison
-- Actual vs Predicted house prices
+![Model Comparison](screenshots/model_comparison.png)
 
+### Actual vs Predicted House Prices
+
+![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
 ---
 
 ## 🛠️ Technologies Used
